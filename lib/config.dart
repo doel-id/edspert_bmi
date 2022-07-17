@@ -17,3 +17,4 @@ const String obeseII = "Obese (Class II)";
 const String obeseIII = "Obese (Class III)";
 
 const String testGitHub = "Test Git Hub";
+const String testGitHub2 = "Test Git Hub 2";
